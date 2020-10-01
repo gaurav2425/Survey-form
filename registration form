@@ -1,0 +1,26 @@
+//https://www.facebook.com/gaurav.wqiragade/posts/1199987090368423
+//suscribed by code house
+//loved your video keep up the good work
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body bgcolor="lightblue" text="red" ><center>
+<h2>REGISTRATION FORM</h2></center>
+<form>
+<fieldset>
+<legend>Registration Form</legend><br>
+first name:<input type="text" name="frame"><br>
+last name:<input type="text" name="frame"><br>
+age:<input type="text" name="age"><br>
+email:<input type="email" name="email"><br>
+address:<textarea></textarea><br>
+<input type="radio"name="a">i agree<br>
+<input type="radio"name="a">i disagree<br>
+<input type="checkbox">terms and condition<br>
+<input type="submit" value="submit"><br>
+<input type="reset">
+</fieldset>
+</form>
+</body>
+</html>
